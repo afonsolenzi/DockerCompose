@@ -1,7 +1,7 @@
 # DockerCompose
 
 
-![alt text](https://drive.google.com/file/d/1fwqZPkm9YRAfNlMLFJrHPTCosvTopnvj/view?usp=share_link)
+![alt text](https://drive.google.com/file/d/1fwqZPkm9YRAfNlMLFJrHPTCosvTopnvj/view)
 
 1 - Save the .zip file 
 
