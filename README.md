@@ -25,7 +25,8 @@ Test Scenario developed by me and Thomaz Rossito to orchestrate two containers: 
 			
 7 - After you receive a sucess message you can query the mysql inside its own container
 by loging as root and passing the password. Do it using powershell per example:
-		○ docker exec -it miniproj-mysql-done-mysql-1 bash
+
+      ○ docker exec -it miniproj-mysql-done-mysql-1 bash
 		
       ○ mysql -u root -p!
       
