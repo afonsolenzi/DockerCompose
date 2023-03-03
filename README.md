@@ -1,7 +1,7 @@
 # DockerCompose
 
 
-![plot](../DockerCompose/python-mysql.png)
+![Screenshot](pythn-mysql.png)
 
 1 - Save the .zip file 
 
