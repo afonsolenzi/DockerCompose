@@ -3,6 +3,8 @@
 
 ![Screenshot](pythn-mysql.png)
 
+Test Scenario developed by me and Thomaz Rossito to orchestrate two containers: one with python and another with mysql. Is generated some fake data and ingested to a table. Then is possible to query it during runtime of containers to double check.
+
 1 - Save the .zip file 
 
 2 - Extract it and open in your favorite IDE
