@@ -3,9 +3,11 @@
 
 ![Screenshot](pythn-mysql.png)
 
-Test Scenario developed by me and Thomaz Rossito to orchestrate two containers: one with python and another with mysql. Is generated some fake data and ingested to a table. Then is possible to query it during runtime of containers to double check.
+Test Scenario developed by me and Thomaz Rossito to orchestrate two containers: one with python and another with mysql. It was generated some fake data using Faker library and ingested to a table of Customers. Then is possible to query it during runtime of containers to double check. 
 
-1 - Save the .zip file 
+Follow this steps to reproduce in your machine:
+
+1 - Save the .zip file from this repo.
 
 2 - Extract it and open in your favorite IDE
 
